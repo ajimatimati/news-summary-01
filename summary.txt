@@ -1,10 +1,16 @@
-GLOBAL NEWS DIGEST - WEDNESDAY, 11 NOVEMBER 2026
+WORLD NEWS BRIEF - WEDNESDAY, 11 NOVEMBER 2026
 
-1. Ukraine-Russia Peace Talks Open in Abu Dhabi: UAE-mediated delegations opened talks focusing on southern ceasefire lines and secure shipping corridors. (Reuters)
-2. COP31 Summit Deadlocked in Antalya: Climate delegates clashed over binding fossil fuel phase-out timetables and loss-and-damage funding for developing states. (AP News)
-3. U.S. Indictments Unsealed in Satellite Espionage Case: The DOJ charged foreign operatives over cyber intrusions targeting defense satellite networks. (The Washington Post)
-4. House Advances Impeachment Resolution on Hegseth: Lawmakers voted along party lines to advance articles citing Pentagon management and ethics violations. (The New York Times)
-5. WHO Issues Alert Over DRC Ebola Spread: Health teams surged vaccines and border monitoring after dozens of new cases emerged in eastern provinces. (BBC News)
-6. Global Markets Sink on Persistent Inflation: Wall Street and Asian bourses dropped as sticky inflation drove yields higher, dampening rate-cut hopes. (Bloomberg)
-7. Trump Files Defamation Lawsuit Against BBC: Donald Trump filed legal action in London alleging defamatory coverage and documentary portrayals. (Financial Times)
-8. Massive Highway Pileup Snarls South Korean Transit: Heavy morning fog triggered a 40-vehicle collision near Cheonan, injuring dozens. (Yonhap News Agency)
+1. UKRAINE/RUSSIA: US- and UAE-mediated peace delegations opened talks in Abu Dhabi on a 30-day southern ceasefire and shipping routes. (Reuters)
+2. COP31: Over 140 leaders convened in Antalya, Turkey, deadlocked over binding fossil fuel phase-outs and a $300B climate fund. (AFP)
+3. HORMUZ: A multinational coalition intercepted two maritime attack drones following harassment of commercial tankers in the strait. (AP)
+4. US CONGRESS: The House voted 218-212 to advance an impeachment resolution against Defense Secretary Pete Hegseth over ethics issues. (Reuters)
+5. CYBERSECURITY: The DOJ unsealed indictments charging four foreign intelligence officers with hacking US military satellite links. (AP)
+6. MARKETS: The S&P 500 fell 1.4% and the Nikkei lost 1.8% as sticky 3.6% core inflation drove 10-year Treasury yields above 4.55%. (Bloomberg)
+7. AI HARDWARE: Nvidia began volume shipments of Vera Rubin NVL72 AI racks, achieving a 3.8x compute efficiency gain over Blackwell. (Reuters)
+8. AI RESEARCH: Anthropic released Claude 4.5 Sonnet safety audits, showing a 42% reduction in autonomous agent drift across tasks. (Bloomberg)
+9. HEALTH: The WHO deployed emergency ring-vaccine stockpiles as DR Congo Ebola infections rose to 68 cases across two provinces. (BBC)
+10. SPACE: Astronomers using the James Webb Space Telescope documented a massive 14-galaxy protocluster forming 650M years after Big Bang. (AP)
+11. MEDIA LAW: Donald Trump filed a $10B libel suit against the BBC in London's High Court over 2024 documentary profile broadcasts. (Reuters)
+12. TRANSPORT: Heavy morning fog triggered a 42-vehicle chain collision along South Korea's Gyeongbu Expressway, injuring 31 motorists. (AFP)
+13. TRADE: Mercosur and Pacific Alliance ministers signed a $45B cross-Andean transport pact in Santiago for Atlantic-Pacific routes. (AFP)
+
